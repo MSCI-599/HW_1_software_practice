@@ -13,7 +13,7 @@ output: html_document
 knitr::opts_chunk$set(fig.width=6, fig.asp = 0.618, collapse=TRUE) 
 ```
 
-### Homework # 1 "Software Practice"
+### Homework # 1 Software Practice
 
 The goal of this homework is: 
 
